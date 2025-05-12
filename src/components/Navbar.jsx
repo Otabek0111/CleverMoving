@@ -6,7 +6,7 @@ export default function Navbar() {
       
       <nav className="max-w-8xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
         <Link to="/">
-          <img src="src/assets/logo-transparent-svg.svg" alt="Logo" className="h-28 w-auto" />
+          <img src="./src/assets/logo-transparent-svg.svg" alt="Logo" className="h-28 w-auto" />
         </Link>
         <ul className="hidden md:flex space-x-6 text-secondary font-semibold pr-14">
           <li><Link to="/">Home</Link></li>

@@ -2,7 +2,7 @@ export default function Hero() {
   return (
     <section
       className="min-h-screen bg-accent bg-center text-white flex items-center justify-center relative"
-      style={{ backgroundImage: "url('src/assets/Local-Moving-Company.jpg')" }}
+      style={{ backgroundImage: "url('./src/assets/Local-Moving-Company.jpg')" }}
     >
       <div className="absolute inset-0 bg-accent bg-opacity-60" />
       <div className="relative z-10 text-center max-w-2xl px-4">

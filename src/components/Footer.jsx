@@ -24,7 +24,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="inline-block mt-3 text-primary underline hover:text-white transition"
           >
-            <img src="src/assets/yelp_burst.png" alt="Yelp" className="h-6 w-auto" />
+            <img src="./src/assets/yelp_burst.png" alt="Yelp" className="h-6 w-auto" />
             <span className="text-sm text-primary underline hover:text-white">See us on Yelp</span>
           </a>
         </div>

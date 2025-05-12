@@ -1,8 +1,8 @@
 export default function Testimonials() {
   const reviews = [
-    { name: "Morgan K.", text: "Fast, professional move and friendly team." },
-    { name: "Katie B.", text: "The smoothest move I’ve ever had." },
-    { name: "Erica D.", text: "Highly recommend Clever Moving!" }
+    { name: "Max K.", text: "Fast, professional move and friendly team." },
+    { name: "Nick B.", text: "The smoothest move I’ve ever had." },
+    { name: "Suhrob D.", text: "Highly recommend Clever Moving!" }
   ];
 
   return (
