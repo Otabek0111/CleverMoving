@@ -5,11 +5,14 @@ import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Services from "./pages/Services";
 import Footer from "./components/Footer";
+import ScrollToTop from "./utils/ScrollToTop";
+
 
 function App() {
   return (
     
     <Router>
+      <ScrollToTop />
       <Navbar />
       <main className="mt-24">
       <Routes>
