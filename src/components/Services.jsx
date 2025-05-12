@@ -2,17 +2,17 @@ const services = [
   {
     title: "Local Moving",
     desc: "We handle NYC apartment moves with speed and care — stairs, tight hallways, and all.",
-    image: "./src/assets/aboutUs/1.jpg",
+    image: "/assets/aboutUs/1.jpg",
   },
   {
     title: "Long Distance",
     desc: "Moving out of state? We'll plan, pack, and deliver it all — coast to coast.",
-    image: "./src/assets/aboutUs/2.jpg",
+    image: "/assets/aboutUs/2.jpg",
   },
   {
     title: "Packing & Supplies",
     desc: "We bring boxes, tape, padding — and expert packing skills. You don't lift a finger.",
-    image: "./src/assets/aboutUs/8.jpg",
+    image: "/assets/aboutUs/8.jpg",
   },
 ];
 
