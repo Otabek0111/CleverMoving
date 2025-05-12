@@ -20,7 +20,7 @@ export default function About() {
         {/* Story Section */}
         <div className="grid md:grid-cols-2 gap-10 items-center">
           <img
-            src="/assets/aboutUs/5.jpg"
+            src="/assets/5.jpg"
             alt="Founders"
             className="rounded-lg shadow-md w-full h-80 object-cover hover:shadow-zinc-950 hover:shadow-xl transition"
           />
@@ -38,7 +38,7 @@ export default function About() {
           {/* Meet Nick - Manager */}
           <div className="grid md:grid-cols-2 gap-10 items-center">
             <img
-              src="/assets/aboutUs/12nick.jpg"
+              src="/assets/12nick.jpg"
               alt="Nick, Manager"
               className="rounded-lg shadow-md w-full h-[50vh] object-cover hover:shadow-zinc-950  hover:shadow-xl transition"
             />
@@ -83,7 +83,7 @@ export default function About() {
             </p>
           </div>
           <img
-            src="/assets/aboutUs/4.jpg"
+            src="/assets/4.jpg"
             alt="Packing team"
             className="rounded-lg shadow-md w-full h- object-cover"
           />

@@ -3,17 +3,17 @@ const services = [
   {
     title: "Local Moving",
     desc: "Fast, professional moves across NYC boroughs — our experienced team knows the city inside and out. We'll handle elevators, stairs, and tight parking zones with ease.",
-    image: "/assets/aboutUs/6.jpg",
+    image: "/assets/6.jpg",
   },
   {
     title: "Long Distance Moving",
     desc: "Relocating out of state? We coordinate every detail — secure packing, detailed inventory, and guaranteed delivery windows.",
-    image: "/assets/aboutUs/5.jpg",
+    image: "/assets/5.jpg",
   },
   {
     title: "Packing & Supplies",
     desc: "No need to shop for boxes or bubble wrap. We provide professional-grade supplies and careful, efficient packing services.",
-    image: "/assets/aboutUs/10.jpg",
+    image: "/assets/10.jpg",
   },
 ];
 
