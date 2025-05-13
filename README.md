@@ -81,7 +81,7 @@ src/
 ### 1. Clone and Install
 ```bash
 git clone https://github.com/Otabek0111/CleverMoving
-cd clever-moving
+cd cleverMoving
 npm install
 ```
 
